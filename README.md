@@ -1,6 +1,6 @@
-# Awesomeface Predictor
+# shitbaby predictor
 
-![Awesomeface Predictor](https://i.imgur.com/NUrsiJw.png)
+![shitbaby Predictor](https://i.imgur.com/NUrsiJw.png)
 
 ## Table of Contents
 
